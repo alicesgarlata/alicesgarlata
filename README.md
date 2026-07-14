@@ -16,11 +16,11 @@
 
 ### 🌱 About me
 
-- 🎓 Studying **Digital Humanities and Digital Knowledge** at the University of Bologna
+- 🎓 Studying **Digital Humanities and Digital Knowledge** at the University of Bologna, originally from Marche, Italy.
 - 🗺️ Working with **cultural data, Linked Open Data, interactive maps, and digital storytelling**
 - 🏳️‍🌈 Contributed to projects on **Italian LGBTQIA+ history** and Bologna's cultural heritage
-- 🎮 Into **cinema**, **hardcore/punk music**, and **Norse mythology**
-- ✍️ Also write for a Bologna-based cultural magazine
+- 🎮 Into all **geek and nerd stuff, but in a cool way I swear...**
+- ✍️ Also write for a music magazines and work in event-organizing here in Bologna, Italy.
 
 ---
 
